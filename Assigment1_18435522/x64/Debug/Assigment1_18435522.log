@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  BoardImp.cpp
+  CellImp.cpp
+  ComputerPlayerImp.cpp
+  HumanPlayerImp.cpp
+  MKGameImp.cpp
+f:\e-documents\development\tictactoe\assigment1_18435522\mkgameimp.cpp(5): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PlayerImp.cpp
+  RandomPlayerImp.cpp
+  TicTacToeGame.cpp
+  Generating Code...
+  Assigment1_18435522.vcxproj -> F:\E-Documents\Development\TicTacToe\x64\Debug\Assigment1_18435522.exe
